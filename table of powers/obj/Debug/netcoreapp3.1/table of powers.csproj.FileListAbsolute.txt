@@ -1,0 +1,13 @@
+C:\Grandcircus\table of powers\table of powers\bin\Debug\netcoreapp3.1\table of powers.exe
+C:\Grandcircus\table of powers\table of powers\bin\Debug\netcoreapp3.1\table of powers.deps.json
+C:\Grandcircus\table of powers\table of powers\bin\Debug\netcoreapp3.1\table of powers.runtimeconfig.json
+C:\Grandcircus\table of powers\table of powers\bin\Debug\netcoreapp3.1\table of powers.runtimeconfig.dev.json
+C:\Grandcircus\table of powers\table of powers\bin\Debug\netcoreapp3.1\table of powers.dll
+C:\Grandcircus\table of powers\table of powers\bin\Debug\netcoreapp3.1\table of powers.pdb
+C:\Grandcircus\table of powers\table of powers\obj\Debug\netcoreapp3.1\table of powers.csprojAssemblyReference.cache
+C:\Grandcircus\table of powers\table of powers\obj\Debug\netcoreapp3.1\table of powers.csproj.CoreCompileInputs.cache
+C:\Grandcircus\table of powers\table of powers\obj\Debug\netcoreapp3.1\table of powers.AssemblyInfoInputs.cache
+C:\Grandcircus\table of powers\table of powers\obj\Debug\netcoreapp3.1\table of powers.AssemblyInfo.cs
+C:\Grandcircus\table of powers\table of powers\obj\Debug\netcoreapp3.1\table of powers.dll
+C:\Grandcircus\table of powers\table of powers\obj\Debug\netcoreapp3.1\table of powers.pdb
+C:\Grandcircus\table of powers\table of powers\obj\Debug\netcoreapp3.1\table of powers.genruntimeconfig.cache
